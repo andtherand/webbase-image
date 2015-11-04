@@ -17,3 +17,8 @@ This image is derived from the superb phusion/baseimage, that is handling lots o
 * set zsh as default login shell
 * create a www-data user with no home
 * clean up after ourselves
+
+I' am lazy so I added a build script with the creative title build, which just calls:
+```shell
+$docker build -t mychiara/webbase .
+```
