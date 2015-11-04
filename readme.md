@@ -2,11 +2,11 @@
 
 This is a simple base image to be used in conjunction with the great plattform docker.
 
-Get more information about (docker)[http://docs.docker.com/].
+Get more information about [docker](http://docs.docker.com/).
 
 ##  Derivation
 
-This image is derived from the superb phusion/baseimage, that is handling lots of stuff for you in the background so you can just get started building your infrastructure. For details be sure to check out (this)[http://phusion.github.io/baseimage-docker/].
+This image is derived from the superb phusion/baseimage, that is handling lots of stuff for you in the background so you can just get started building your infrastructure. For details be sure to check out [this](http://phusion.github.io/baseimage-docker/).
 
 ## What's happening inside?
 
